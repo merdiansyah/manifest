@@ -1,0 +1,17 @@
+{
+  "name": "TyL",
+  "icons": [{
+    "src": "https://blogsphere.web.app/images/128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "https://blogsphere.web.app/images/192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "scope": "https://blogsphere.web.app/apps/5136191244809482543",
+  "start_url": "https://blogsphere.web.app/apps/5136191244809482543",
+  "display": "standalone",
+  "background_color": "#596d92",
+  "theme_color": "#3f5173"
+}
